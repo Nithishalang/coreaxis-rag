@@ -1,0 +1,10 @@
+streamlit
+ollama
+python-dotenv
+mysql-connector-python
+argon2-cffi
+chromadb
+sentence-transformers
+rank-bm25
+numpy
+requests
